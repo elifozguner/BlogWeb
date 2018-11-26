@@ -10,7 +10,7 @@ namespace BlogWeb.Controllers
     {
         public ActionResult Index()
         {
-            return View("a");
+            return View();
         }
     }
 }
